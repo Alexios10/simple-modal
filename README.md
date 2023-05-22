@@ -1,4 +1,4 @@
-Just a simple pop up modal with nice animation with the help of framer-motion
+Just a simple pop up modal with nice animation using framer-motion
 
 
 
